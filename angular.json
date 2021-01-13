@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tradexa-app"
+    }
+  },
+  "defaultProject": "tradexa-app",
+  "cli": {
+    "analytics": false
+  }
 }
